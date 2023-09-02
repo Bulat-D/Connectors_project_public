@@ -1,0 +1,24 @@
+tzdata
+yappi # for profiling
+
+pythonnet # to run NET code in python
+
+pyiqfeed
+'''
+git clone https://github.com/akapur/pyiqfeed.git
+cd pyiqfeed
+pip install .
+'''
+
+
+('Symbol', 'Ask', 'Ask Change', 'Ask Market Center', 'Ask Size', 'Ask Time', 'Available Regions', 'Average Maturity', 
+'Bid', 'Bid Change', 'Bid Market Center', 'Bid Size', 'Bid Time', 'Change', 'Change From Open', 'Close', 'Close Range 1', 
+'Close Range 2', 'Days to Expiration', 'Decimal Precision', 'Delay', 'Exchange ID', 'Extended Price', 
+'Extended Trade Date', 'Extended Trade Market Center', 'Extended Trade Size', 'Extended Trade Time', 
+'Extended Trading Change', 'Extended Trading Difference', 'Financial Status Indicator', 'Fraction Display Code', 
+'High', 'Last', 'Last Date', 'Last Market Center', 'Last Size', 'Last Time', 'Low', 'Market Capitalization', 
+'Market Open', 'Message Contents', 'Most Recent Trade', 'Most Recent Trade Conditions', 'Most Recent Trade Date', 
+'Most Recent Trade Market Center', 'Most Recent Trade Size', 'Most Recent Trade Time', 'Net Asset Value', 
+'Number of Trades Today', 'Open', 'Open Interest', 'Open Range 1', 'Open Range 2', 'Percent Change', 
+'Percent Off Average Volume', 'Previous Day Volume', 'Price-Earnings Ratio', 'Range', 'Restricted Code', 
+'Settle', 'Settlement Date', 'Spread', '7 Day Yield', 'Tick', 'TickId', 'Total Volume', 'VWAP', 'Volatility')
