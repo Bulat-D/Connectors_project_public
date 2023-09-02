@@ -29,7 +29,7 @@ DATABASE_FILE_PATH = "local_db.sqlite3"
 
 # Telegram bot settings
 TELEGRAM_API_TOKEN = ""
-TELEGRAM_CHAT_IDS = [240602279]
+TELEGRAM_CHAT_IDS = []
 
 # Web interface settings
 WEB_SERVER_HOST = "localhost"
